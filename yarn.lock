@@ -3840,10 +3840,10 @@ browserify-zlib@^0.2.0:
   dependencies:
     pako "~1.0.5"
 
-browserslist-config-cozy@0.3.0:
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/browserslist-config-cozy/-/browserslist-config-cozy-0.3.0.tgz#8df42275b168885c6961ce4b0d253b5f415d357f"
-  integrity sha512-EWCKW1Vb6OGNFgHvqnTDOI0anqVRaXmuf/uP8QB6jiH8FVrL0DAj/WuxYUFd4oVYawJZ2A5Xit86NSEWtILsSw==
+browserslist-config-cozy@0.3.2:
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/browserslist-config-cozy/-/browserslist-config-cozy-0.3.2.tgz#0a06ed1357480e4e90bbe826aa3159c7e8bc85b3"
+  integrity sha512-d3wUIrKK8OYUPpgY3FJdb2I3xoDLtia7s2hhNfVUvQMldhw/xivmbtrPlkDdtsOjXa/SXKNhJT45uiS1QOhqVg==
 
 browserslist-config-cozy@^0.3.1:
   version "0.3.1"
